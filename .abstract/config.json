@@ -1,0 +1,8 @@
+{
+  "_comment": "Defines how the Abstract Folder plugin should interpret this repository locally.",
+  "propertyNames": {
+    "parent": ["parent", "up"],
+    "children": ["children", "down"]
+  },
+  "forceStandardProperties": false
+}

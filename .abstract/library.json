@@ -1,0 +1,15 @@
+{
+  "_comment": "This file simply identifies the library. Behavior configurations (like parent/children frontmatter keys) live in .abstract/config.json.",
+  "id": "REPLACE_ME",
+  "name": "My New Library",
+  "author": "REPLACE_ME",
+  "description": "A shared abstract library.",
+  "version": "1.0.0",
+  "category": "General",
+  "minAbstractVersion": "2.0.0",
+  "fundingUrl": "REPLACE_ME",
+  "topics": [
+    "Getting Started",
+    "Advanced Concepts"
+  ]
+}
